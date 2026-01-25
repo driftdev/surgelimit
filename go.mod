@@ -1,4 +1,4 @@
-module github.com/pixelbend/superlimit-go
+module github.com/arkamfahry/bastionlimit-go
 
 go 1.25.1
 
